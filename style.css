@@ -347,6 +347,7 @@ h4 {
   pointer-events: all;
   transition: var(--transition-3);
 }
+<<<<<<< HEAD
 .popup {
   display: none;
   position: fixed;
@@ -375,6 +376,8 @@ h4 {
 body.noscroll {
   overflow: hidden;
 }
+=======
+>>>>>>> f51f32ae4a235b47dd0157954fd38e7ea55e3143
 
 /*----------------HERO----------------*/
 
