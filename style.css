@@ -347,7 +347,6 @@ h4 {
   pointer-events: all;
   transition: var(--transition-3);
 }
-<<<<<<< HEAD
 .popup {
   display: none;
   position: fixed;
@@ -376,13 +375,11 @@ h4 {
 body.noscroll {
   overflow: hidden;
 }
-=======
->>>>>>> f51f32ae4a235b47dd0157954fd38e7ea55e3143
 
 /*----------------HERO----------------*/
 
 .hero {
-  background: url("https://i.postimg.cc/7ZpwDmw4/hero-banner.jpg") no-repeat; 
+  background: url("images/hero-banner.jpg") no-repeat; 
   /*herobanner */
   background-size: cover;
   background-position: top center;
@@ -419,12 +416,12 @@ body.noscroll {
 /*----------------ABOUT---------------*/
 
 .pozadina {
-  background: url("https://i.postimg.cc/J01Rv0mB/section-wrapper-bg.jpg") no-repeat;
+  background: url("images/section-wrapper-bg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
 .about {
-  background: url("https://i.postimg.cc/zvP47GfN/about-img-shadow.png") no-repeat;
+  background: url("images/about-img-shadow.png") no-repeat;
   background-size: 100%;
   background-position: center;
   padding: 120px 0 var(--section-padding);
@@ -648,7 +645,7 @@ body.noscroll {
 }
 .gears .card-banner{
   position: relative;
-  background: url("https://i.postimg.cc/mg9K3RWx/gears-card-bg.png") no-repeat;
+  background: url("images/gears-card-bg.png") no-repeat;
   background-size: contain;
   background-position: center;
   width: 100%;
@@ -739,7 +736,7 @@ body.noscroll {
   padding: var(--section-padding) 0 120px; 
 }
 .newsletter-card {
-  background: url("https://i.postimg.cc/BQ7J7JzX/newsletter-bg.jpg") no-repeat;
+  background: url("images/newsletter-bg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   padding: 50px 25px;
@@ -781,7 +778,7 @@ body.noscroll {
 /*---------------FOOTER---------------*/
 
 .footer-top {
-  background: url("https://i.postimg.cc/J4GfnZTz/footer-bg.jpg") no-repeat;
+  background: url("images/footer-bg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   padding: var(--section-padding) 0;
