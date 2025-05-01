@@ -16,7 +16,7 @@
 
 ## 📸 Screenshot
 
-![GameX Screenshot](https://i.postimg.cc/ZnHxdF00/gamex.png)
+![GameX Screenshot](https://i.postimg.cc/VNzMjbQC/gamex.png)
 
 <hr>
 
