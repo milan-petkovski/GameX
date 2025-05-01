@@ -16,7 +16,7 @@
 
 ## 📸 Screenshot
 
-![GameX Screenshot](banner.png)
+![GameX Screenshot](https://i.postimg.cc/ZnHxdF00/gamex.png)
 
 <hr>
 
