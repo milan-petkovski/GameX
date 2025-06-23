@@ -1,43 +1,57 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=fd8506&center=true&vCenter=true&width=500&lines=GameX+Platform;Gaming+Community;Join+the+Action!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=ff8605&center=true&vCenter=true&width=800&lines=GameX+Platform;Next-Level+Gaming+Interface;Community-Driven+Design;Powerful+&+Responsive+UX" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <img src="https://i.postimg.cc/VNzMjbQC/gamex.png" width="500px" alt="GameX Screenshot">
+</div>  
+<br>
+
 <p align="center">
-  GameX is a dynamic and interactive gaming platform designed for players who seek thrilling competitions and a vibrant gaming community. It offers various games, tournaments, and community features that allow players to connect, share strategies, and compete at different skill levels. The website is optimized for a seamless experience, whether you're joining a tournament, viewing game details, or interacting with other gamers. GameX is not just a website; it's a space where gaming enthusiasts can come together, share experiences, and challenge each other in the pursuit of fun and victory.
+  <strong>GameX</strong> is a bold and immersive gaming platform experience built to showcase upcoming titles, host events, and connect the gaming community in one responsive digital space.<br><br>
+  From dynamic UI sections to responsive layouts tailored for gamers, <strong>GameX</strong> merges performance and interactivity into one visually striking experience.<br><br>
+  🕹️ Optimized for interaction. Designed for community. Built to scale in the gaming era.
 </p>
 
 <p align="center">
   <a href="https://gamex.milanwebportal.com">
-    <img src="https://img.shields.io/badge/Visit-Website-fd8506?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
+    <img src="https://img.shields.io/badge/Visit-Website-ff8605?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
   </a>
 </p>
 
 <hr>
 
-## 📸 Screenshot
+## 🧊 Project Overview
 
-![GameX Screenshot](https://i.postimg.cc/VNzMjbQC/gamex.png)
+| Key Detail       | Info                                               |
+|------------------|----------------------------------------------------|
+| **Project Name** | GameX                                              |
+| **Live URL**     | [gamex.milanwebportal.com](https://gamex.milanwebportal.com) |
+| **Type**         | Gaming Community Platform                          |
+| **Launch date**  | 20. January 2024.                                          |
+| **Author**       | [Milan Petkovski](https://milanwebportal.com)      |
 
 <hr>
 
 ## 🚀 Technologies
 
-- HTML5  
-- CSS3  
-- JavaScript  
-- Bootstrap
-- Responsive Design  
-- Google Fonts
+- `🎮` HTML5  
+- `🎨` CSS3  
+- `🧠` JavaScript  
+- `🧩` Bootstrap  
+- `📱` Responsive Design  
+- `🔤` Google Fonts  
 
 <hr>
 
 ## 🎯 Features
 
-- 💡 Interactive and dynamic design
-- 📱 Fully responsive layout (mobile, tablet, desktop)
-- 🎮 Game tournaments and leaderboards
-- 🏆 User profiles and achievements
-- 📍 Contact page with map
+- `🧪` Futuristic gaming UI design with motion effects  
+- `📱` Fully responsive layout across devices  
+- `🧵` Modular content sections (events, news, community)  
+- `🎥` Trailer embeds & image showcases  
+- `💬` Smart contact & feedback section  
+- `🚀` Optimized load time & seamless page transitions  
 
 <hr>
 
@@ -53,20 +67,16 @@ open index.html
 
 ## 📄 License
 
-**All files and design are the property of Milan Petkovski.**
-<br>
+**All files and design are the property of Milan Petkovski.**  
 The code is open for viewing but not allowed to be downloaded, modified, or used for commercial purposes without permission.
 
 <hr>
 
 ## ✉️ Contact
 
-For more information or collaboration:
-<br>
-🌐 [milanwebportal.com](https://milanwebportal.com)
-<br>
-📧 [contact@milanwebportal.com](mailto:contact@milanwebportal.com)
-<br><br>
-
-> Made with ❤️ by Milan Petkovski
+Have a project in mind or want to work together?  
+🌐 [milanwebportal.com](https://milanwebportal.com)  
+📧 [contact@milanwebportal.com](mailto:contact@milanwebportal.com)  
+<br/>
+<p align="center"> 🚀 Built with passion, precision, and pixel-perfection by <strong>Milan Petkovski</strong> </p>
 
